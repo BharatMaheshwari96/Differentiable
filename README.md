@@ -1,1 +1,2 @@
 # Differentiable
+A differentiable function is a function in one variable in calculus such that its derivative exists at each point in its entire domain. The tangent line to the graph of a differentiable function is always non-vertical at each interior point in its domain. A differentiable function does not have any break, cusp, or angle. A differentiable function is always continuous but every continuous function is not differentiable.
